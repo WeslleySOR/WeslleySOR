@@ -1,7 +1,6 @@
 ### Olá eu sou o Weslley
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando ReactJS + Typescript
+- 🌱 Desenvolvedor Front-End Jr | ReactJS - NextJS 
 
 <div>
   <a href="https://github.com/WeslleySOR">
