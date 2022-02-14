@@ -1,6 +1,4 @@
-### Olá eu sou o Weslley
-
-- 🌱 Desenvolvedor Front-End Jr | ReactJS - NextJS 
+### Desenvolvedor Front-End Jr | ReactJS - NextJS 
 
 <div>
   <a href="https://github.com/WeslleySOR">
