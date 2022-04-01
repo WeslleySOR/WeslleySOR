@@ -1,5 +1,16 @@
-### Desenvolvedor Front-End Jr | ReactJS - NextJS 
+### Desenvolvedor Front-End Jr | ReactJS - NextJS
 
+## Projetos publicados:
+#### Bombcrypto Tools
+##### Descrição: 
+- Um site feito para ajudar os jogadores desse game, a utilidade dele é o controle de quanto voce vai precisar gastar para dar upgrade no personagem, e ver quais os beneficios voce vai ter ao fazer isso.
+##### Link:
+- https://bombcryptoinfoupgrade.netlify.app/
+##### Repositório: 
+- https://github.com/WeslleySOR/bomb-crypto-upgrade-info
+##### Observação: 
+- Ele é classificado como nota 10 no https://accessmonitor.acessibilidade.gov.pt/, uma ferramenta feita para validar praticas de acessibilidade de um site.
+##
 <div>
   <a href="https://github.com/WeslleySOR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeslleySOR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
