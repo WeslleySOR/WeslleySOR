@@ -5,8 +5,8 @@
   <summary>Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022</summary>
   
   <div align="center">
-    <img src="https://github.com/WeslleySOR/WeslleySOR/blob/main/certified/light.png?raw=true#gh-light-mode-only">
-    <img src="https://github.com/WeslleySOR/WeslleySOR/blob/main/certified/dark.png?raw=true#gh-dark-mode-only">
+    <img style="border: 1px solid #000; border-radius: 10px;" src="https://github.com/WeslleySOR/WeslleySOR/blob/main/certified/light.png?raw=true#gh-light-mode-only">
+    <img style="border: 1px solid #000; border-radius: 10px;" src="https://github.com/WeslleySOR/WeslleySOR/blob/main/certified/dark.png?raw=true#gh-dark-mode-only">
   </div>
 </details>
 
