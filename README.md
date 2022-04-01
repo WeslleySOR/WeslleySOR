@@ -1,7 +1,6 @@
-# Desenvolvedor Front-End Jr | ReactJS - NextJS
-## Atualmente estudando React Native
+## Desenvolvedor Front-End Jr | ReactJS - NextJS ( Atualmente estudando React Native )
 
-### Cursos:
+#### Cursos:
 <details>
   <summary>Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022</summary>
   
@@ -11,8 +10,8 @@
   </div>
 </details>
 
-##
-### Projetos publicados:
+#
+#### Projetos publicados:
 <details>
   <summary>Bombcrypto Tools</summary>
   
@@ -26,7 +25,7 @@
   - Ele é classificado como nota 10 no https://accessmonitor.acessibilidade.gov.pt/, uma ferramenta feita para validar praticas de acessibilidade de um site.
 </details>
 
-##
+#
 <div>
   <a href="https://github.com/WeslleySOR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeslleySOR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
