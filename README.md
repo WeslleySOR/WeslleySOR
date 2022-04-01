@@ -1,6 +1,17 @@
-### Desenvolvedor Front-End Jr | ReactJS - NextJS
+# Desenvolvedor Front-End Jr | ReactJS - NextJS
 
-## Projetos publicados:
+### Cursos:
+<details>
+  <summary>Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022</summary>
+  
+  <div align="center">
+    <img width="400px" height="100px" src="https://github.com/WeslleySOR/WeslleySOR/certified/light.png#gh-light-mode-only">
+    <img width="400px" height="100px" src="https://github.com/WeslleySOR/WeslleySOR/certified/dark.png#gh-dark-mode-only">
+  </div>
+</details>
+
+##
+### Projetos publicados:
 <details>
   <summary>Bombcrypto Tools</summary>
   
@@ -35,8 +46,5 @@
   <a href="https://www.facebook.com/weslley.sor/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
   <a href = "mailto:weslleywruas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/weslleyruas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5524998547770" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/WeslleySOR/WeslleySOR/blob/main/github-contribution-grid-snake.svg)
- 
+  <a href="https://wa.me/5524998547770" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
