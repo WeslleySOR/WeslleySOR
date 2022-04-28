@@ -1,4 +1,4 @@
-## Desenvolvedor Front-End Jr | ReactJS - NextJS ( Atualmente estudando React Native )
+## Desenvolvedor Front-End Jr | ReactJS - NextJS
 
 #### Cursos:
 <details>
