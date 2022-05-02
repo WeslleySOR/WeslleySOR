@@ -11,6 +11,40 @@
 </details>
 
 #
+#### Projetos deployados:
+
+<details>
+  <summary>
+    Park Park - Projeto desenvolvido para um teste de vaga front-end
+  </summary>
+  		<div style="display: flex; flex-direction: column">
+			<h4>
+				Você pode acessar o site do projeto atraves desse 
+				<a href="https://front-end-challenge-weslleysor.vercel.app/">link</a>
+			</h4>
+			<h4>
+                Repositório do projeto 
+                <a href="https://github.com/WeslleySOR/front-end-challenge">link do repo</a>
+            </h4>
+			<br/>
+			<h4>O que é o Park Park ?</h4>
+			<span>
+				O park park é uma aplicação para controle de fluxo de estacionamento,
+				onde você pode dar entrada em um veículo, confirmar o pagamento e a
+				saída desse veículo e tambem olhar o histórico desse veículo nesse
+				estacionamento !
+			</span>
+			<h4>Sobre o layout:</h4>
+			<span>
+				Esse projeto foi desenvolvido em mobile-first e só o layout do mobile
+				foi disponibilizado para o teste, então se o layout web estiver meio
+				esquisito esse é o motivo.
+			</span>
+		</div>
+</details>
+
+
+#
 <div>
   <a href="https://github.com/WeslleySOR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeslleySOR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
