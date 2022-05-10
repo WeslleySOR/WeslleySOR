@@ -1,12 +1,12 @@
 ## Desenvolvedor Front-End Jr | ReactJS - NextJS
 
-Cursos:
+#### Cursos:
 
 [Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022](https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/react-js.md)
 
 - [Repositórios organizados](https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/repositories.md)
 
-Eventos:
+#### Eventos:
 
 ##### NLW Together
 - [Repositório](https://github.com/WeslleySOR/NLWTogether-letmeask)
@@ -16,7 +16,7 @@ Eventos:
 - [Frontend repo](https://github.com/WeslleySOR/nlw-return-mission-impulse)
 - [Backend repo](https://github.com/WeslleySOR/nlw-return-mission-impulse-back-end)
 
-##### Projetos deployados:
+#### Projetos deployados:
 
 [Park-Park](https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/park-park.md)
 
