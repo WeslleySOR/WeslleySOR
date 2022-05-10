@@ -1,50 +1,27 @@
 ## Desenvolvedor Front-End Jr | ReactJS - NextJS
 
-#### Cursos:
-<details>
-  <summary>Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022</summary>
-  
-  <div align="center">
-    <img src="https://github.com/WeslleySOR/WeslleySOR/blob/main/certified/light.png?raw=true#gh-light-mode-only">
-    <img src="https://github.com/WeslleySOR/WeslleySOR/blob/main/certified/dark.png?raw=true#gh-dark-mode-only">
-  </div>
-</details>
+##### Cursos:
+
+[Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022](https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/react-js.md)
+
+- [Repositórios organizados](https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/repositories.md)
+
+##### Eventos:
+
+NLW Together
+- [Repositório](https://github.com/WeslleySOR/NLWTogether-letmeask)
+- [Link deployado](https://letmeask-12555.web.app/)
+
+NLW Return(Impulse)
+- [Frontend repo](https://github.com/WeslleySOR/nlw-return-mission-impulse)
+- [Backend repo](https://github.com/WeslleySOR/nlw-return-mission-impulse-back-end)
+
+##### Projetos deployados:
+
+[Park-Park](https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/park-park.md)
 
 #
-#### Projetos deployados:
 
-<details>
-  <summary>
-    Park Park - Projeto desenvolvido para um teste de vaga front-end
-  </summary>
-  		<div style="display: flex; flex-direction: column">
-			<h4>
-				Você pode acessar o site do projeto atraves desse 
-				<a href="https://front-end-challenge-weslleysor.vercel.app/">link</a>
-			</h4>
-			<h4>
-                Repositório do projeto 
-                <a href="https://github.com/WeslleySOR/front-end-challenge">link do repo</a>
-            </h4>
-			<br/>
-			<h4>O que é o Park Park ?</h4>
-			<span>
-				O park park é uma aplicação para controle de fluxo de estacionamento,
-				onde você pode dar entrada em um veículo, confirmar o pagamento e a
-				saída desse veículo e tambem olhar o histórico desse veículo nesse
-				estacionamento !
-			</span>
-			<h4>Sobre o layout:</h4>
-			<span>
-				Esse projeto foi desenvolvido em mobile-first e só o layout do mobile
-				foi disponibilizado para o teste, então se o layout web estiver meio
-				esquisito esse é o motivo.
-			</span>
-		</div>
-</details>
-
-
-#
 <div>
   <a href="https://github.com/WeslleySOR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeslleySOR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
