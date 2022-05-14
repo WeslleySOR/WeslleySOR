@@ -2,53 +2,59 @@
 
 #
 
-  <div style="display: flex; flex-direction: column; gap: 20px">
-      <div style="display: flex; flex-direction: column; border: 1px solid #dbdbdb; border-radius: 5px; color: #2B0000;">
-          <div style="display: flex; align-items: center; justify-content: center; height: 48px; background-color: #A3DDCB;">
-              <h1>Cursos</h1>
-          </div>
-          <div style="display: flex; flex-direction: column; padding: 24px; background-color: #E8E9A1;">
-              <div style="display: flex; flex-direction: column; gap: 5px;">
-                  <h3>Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022</h3>
-                  <span> - <a target="_blank" href="https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/react-js.md">Link</a> do certificado</span>
-                  <span> - <a target="_blank" href="https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/repositories.md">Repositórios organizados</a></span>
-              </div>
-          </div>
-      </div>
-      <div style="display: flex; flex-direction: column; border: 1px solid #dbdbdb; border-radius: 5px; color: #2B0000;">
-          <div style="display: flex; align-items: center; justify-content: center; height: 48px; background-color: #A3DDCB;">
-              <h1>Eventos</h1>
-          </div>
-          <div style="display: flex; flex-direction: column; padding: 24px; background-color: #E8E9A1;">
-              <div style="display: flex; flex-direction: column; gap: 5px;">
-                  <h3>NLW Together</h3>
-                  <span> - <a target="_blank" href="https://github.com/WeslleySOR/NLWTogether-letmeask">Repositório</a></span>
-                  <span> - <a target="_blank" href="https://letmeask-12555.web.app/">Link do deploy</a></span>
-              </div>
-              <div style="display: flex; flex-direction: column; gap: 5px;">
-                  <h3>NLW Return(Impulse)</h3>
-                  <span> - <a target="_blank" href="https://github.com/WeslleySOR/nlw-return-mission-impulse">Frontend repo</a></span>
-                  <span> - <a target="_blank" href="https://github.com/WeslleySOR/nlw-return-mission-impulse-back-end">Backend repo</a></span>
-              </div>
-          </div>
-      </div>
-      <div style="display: flex; flex-direction: column; border: 1px solid #dbdbdb; border-radius: 5px; color: #2B0000;">
-          <div style="display: flex; align-items: center; justify-content: center; height: 48px; background-color: #A3DDCB;">
-              <h1>Projetos deployados</h1>
-          </div>
-          <div style="display: flex; flex-direction: column; padding: 24px; background-color: #E8E9A1;">
-              <div style="display: flex; flex-direction: column; gap: 5px;">
-                  <h3>Park-Park</h3>
-                  <span> - O que é o Park Park ?</span>
-                  <span> - O park park é uma aplicação para controle de fluxo de estacionamento, onde você pode dar entrada em um veículo, confirmar o pagamento e a saída desse veículo e tambem olhar o histórico desse veículo nesse estacionamento !</span>
-                  <span> - Sobre o layout:</span>
-                  <span> - Esse projeto foi desenvolvido em mobile-first e só o layout do mobile foi disponibilizado para o teste, então se o layout web estiver meio esquisito esse é o motivo.</span>
-                  <span> - Você pode acessar o site do projeto atraves desse <a href="https://front-end-challenge-weslleysor.vercel.app/">link</a></span>
-                  <span> - Repositório do projeto <a href="https://github.com/WeslleySOR/front-end-challenge">link do repo</a></span>
-              </div>
-          </div>
-      </div>
-  </div>
+  <div>
+        <div>
+                <h1>Cursos</h1>
+            <div>
+                <div>
+                    <h3>Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022</h3>
+                    <span> - <a target="_blank" href="https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/react-js.md">Link</a> do certificado</span>
+                    <br/>
+                    <span> - <a target="_blank" href="https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/repositories.md">Repositórios organizados</a></span>
+                </div>
+            </div>
+        </div>    
+        <div>
+            <div>
+                <h1>Eventos</h1>
+            </div>
+            <div>
+                <div>
+                    <h3>NLW Together</h3>
+                    <span> - <a target="_blank" href="https://github.com/WeslleySOR/NLWTogether-letmeask">Repositório</a></span>
+                    <br/>
+                    <span> - <a target="_blank" href="https://letmeask-12555.web.app/">Link do deploy</a></span>
+                </div>
+                <div>
+                    <h3>NLW Return(Impulse)</h3>
+                    <span> - <a target="_blank" href="https://github.com/WeslleySOR/nlw-return-mission-impulse">Frontend repo</a></span>
+                    <br/>
+                    <span> - <a target="_blank" href="https://github.com/WeslleySOR/nlw-return-mission-impulse-back-end">Backend repo</a></span>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div>
+                <h1>Projetos deployados</h1>
+            </div>
+            <div>
+                <div>
+                    <h3>Park-Park</h3>
+                    <span> - O que é o Park Park ?</span>
+                    <br/>
+                    <span> - O park park é uma aplicação para controle de fluxo de estacionamento, onde você pode dar entrada em um veículo, confirmar o pagamento e a saída desse veículo e tambem olhar o histórico desse veículo nesse estacionamento !</span>
+                    <br/>
+                    <span> - Sobre o layout:</span>
+                    <br/>
+                    <span> - Esse projeto foi desenvolvido em mobile-first e só o layout do mobile foi disponibilizado para o teste, então se o layout web estiver meio esquisito esse é o motivo.</span>
+                    <br/>
+                    <span> - Você pode acessar o site do projeto atraves desse <a href="https://front-end-challenge-weslleysor.vercel.app/">link</a></span>
+                    <br/>
+                    <span> - Repositório do projeto <a href="https://github.com/WeslleySOR/front-end-challenge">link do repo</a></span>
+                </div>
+            </div>
+        </div>
+    </div>
 
 #
 
