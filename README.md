@@ -1,13 +1,11 @@
-## Desenvolvedor Front-End Jr | ReactJS - NextJS
-
-#
+# Desenvolvedor Front-End Jr | ReactJS - NextJS
 
   <div>
         <div>
-                <h1>Cursos</h1>
+                <h3>Cursos</h3>
             <div>
                 <div>
-                    <h3>Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022</h3>
+                    <h5>Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022</h5>
                     <span> - <a target="_blank" href="https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/react-js.md">Link</a> do certificado</span>
                     <br/>
                     <span> - <a target="_blank" href="https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/repositories.md">Repositórios organizados</a></span>
@@ -16,17 +14,17 @@
         </div>    
         <div>
             <div>
-                <h1>Eventos</h1>
+                <h3>Eventos</h3>
             </div>
             <div>
                 <div>
-                    <h3>NLW Together</h3>
+                    <h5>NLW Together</h5>
                     <span> - <a target="_blank" href="https://github.com/WeslleySOR/NLWTogether-letmeask">Repositório</a></span>
                     <br/>
                     <span> - <a target="_blank" href="https://letmeask-12555.web.app/">Link do deploy</a></span>
                 </div>
                 <div>
-                    <h3>NLW Return(Impulse)</h3>
+                    <h5>NLW Return(Impulse)</h5>
                     <span> - <a target="_blank" href="https://github.com/WeslleySOR/nlw-return-mission-impulse">Frontend repo</a></span>
                     <br/>
                     <span> - <a target="_blank" href="https://github.com/WeslleySOR/nlw-return-mission-impulse-back-end">Backend repo</a></span>
@@ -35,11 +33,11 @@
         </div>
         <div>
             <div>
-                <h1>Projetos deployados</h1>
+                <h3>Projetos deployados</h3>
             </div>
             <div>
                 <div>
-                    <h3>Park-Park</h3>
+                    <h5>Park-Park</h5>
                     <span> - O que é o Park Park ?</span>
                     <br/>
                     <span> - O park park é uma aplicação para controle de fluxo de estacionamento, onde você pode dar entrada em um veículo, confirmar o pagamento e a saída desse veículo e tambem olhar o histórico desse veículo nesse estacionamento !</span>
