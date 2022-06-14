@@ -11,7 +11,7 @@
         </div>
         <div>
             <h3>Chapter II</h3>
-            <span> - <a href="https://github.com/WeslleySOR/dtmoney">Primeira Aplicação web com ReactJS - dtmoney</a></span>
+            <span> - <a href="https://github.com/WeslleySOR/dtmoney2.0">Primeira Aplicação web com ReactJS - dtmoney</a></span>
             <br/>
             <span> - <a href="https://github.com/WeslleySOR/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras">Desafio: Criando um hook de carrinho de compras</a></span>
             <br/>
