@@ -6,7 +6,11 @@
             <div>
                 <div>
                     <h5>Ignite - RocketSeat (Trilha ReactJS) - Concluido Fev-2022</h5>
-                    <span> - <a target="_blank" href="https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/react-js.md">Link</a> do certificado</span>
+                    <div align="center">
+                        <img src="https://github.com/WeslleySOR/WeslleySOR/blob/main/certified/light.png?raw=true#gh-light-mode-only">
+                        <img src="https://github.com/WeslleySOR/WeslleySOR/blob/main/certified/dark.png?raw=true#gh-dark-mode-only">
+                    </div>
+                    <span> - <a target="_blank" href="https://app.rocketseat.com.br/certificates/1d465572-c14a-4ff0-853e-28acc3a4433a">Link</a> do certificado</span>
                     <br/>
                     <span> - <a target="_blank" href="https://github.com/WeslleySOR/WeslleySOR/blob/main/all-markdowns/courses/ignite/react-js/repositories.md">Repositórios organizados</a></span>
                 </div>
